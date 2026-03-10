@@ -248,6 +248,7 @@ See [Helpful Tools & Utilities](#helpful-tools-&-utilities) section for tools to
 - <img src="https://huggingface.co/favicon.ico" height="14"/> [HuggingFace Spaces](https://github.com/evalstate/mcp-hfspace) - Use HuggingFace spaces from your MCP Client. Supports Images, Audio, Text and more.
 - <img src="https://piapi.ai/piapi_favicon.webp" height="14"> [PiAPI](https://github.com/apinetwork/piapi-mcp-server) - PiAPI MCP server makes user able to generate media content with Midjourney/Flux/Kling/Hunyuan/Udio/Trellis directly from Claude or any other MCP-compatible apps.
 - <img src="https://www.chronulus.com/favicon/chronulus-logo-blue-on-alpha-square-128x128.ico" alt="Chronulus AI Logo" height="14" width="14"> [Chronulus AI](https://github.com/ChronulusAI/chronulus-mcp) -  Predict anything with Chronulus AI multimodal forecasting and prediction agents ([Watch Demos on Youtube](https://youtube.com/playlist?list=PLPLu09ZbT8KKS04V6SSm2Acjv43FKq329&si=n2YER2in4gOqwssY)).
+- <img src="https://roundtable.now/favicon.ico" height="14"/> [Roundtable](https://github.com/deadpixel/roundtable-dashboard) - Multi-model AI debates: GPT-4o, Claude, Gemini & 200+ models discuss your question, then a moderator synthesizes the best answer. 13 tools for code review, debugging, architecture design, and more.
 <br />
 
 ## 📦 <a name="virtualization"></a>Virtualization
