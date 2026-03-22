@@ -297,6 +297,7 @@ See [Helpful Tools & Utilities](#helpful-tools-&-utilities) section for tools to
   - Automatic configuration generation
   - Easy server management
 - [Remote MCP](https://github.com/ssut/Remote-MCP) - Solution to Remote MCP Communication, enabling effortless integration for centralized management of Model Context
+- - [Universal MCP Toolkit](https://github.com/Markgatcha/universal-mcp-toolkit) - An all-in-one MCP server aggregating 15+ tools (file system, web search, code execution, and more). Zero-config setup via `npx universal-mcp-toolkit`. Listed on Glama.
 
 <br />
 
