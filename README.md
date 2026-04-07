@@ -234,6 +234,7 @@ See [Helpful Tools & Utilities](#helpful-tools-&-utilities) section for tools to
 
 - <img src="https://cdn.simpleicons.org/arxiv/B31B1B" height="14"/> [ArXiv](https://github.com/blazickjp/arxiv-mcp-server) - Search ArXiv research papers
 - <img src="https://api.iconify.design/mdi:dna.svg?color=%23E34234" height="14"/> [Ancestry](https://github.com/reeeeemo/ancestry-mcp) - Read .ged files and genetic data
+- [Katzilla](https://www.npmjs.com/package/@katzilla/mcp) - Unified data API for AI agents — 300+ free, public, and government data sources (FRED, EPA, NOAA, CDC, SEC, NASA, NWS, and more) behind a single API key. Install: `npx @katzilla/mcp`.
 
 <br />
 
