@@ -309,3 +309,4 @@ Please read the [contribution guidelines](CONTRIBUTING.md) if you want to contri
 [![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
 
 To the extent possible under law, [Stephen Akinyemi](https://github.com/appcypher) has waived all copyright and related or neighboring rights to this work.
+- [US Business Data](https://github.com/avabuildsdata/mcp-us-business-data) - MCP server to search Secretary of State business registrations across 17 US states, building permits, SAM.gov contracts, and SEC EDGAR filings.
