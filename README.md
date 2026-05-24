@@ -42,6 +42,7 @@ A curated list of awesome Model Context Protocol (MCP) servers. MCP is an open p
 - 💻 - [Development Tools](#development-tools)
 - 📊 - [Data Visualization](#data-visualization)
 - 🆔 - [Identity](#identity)
+- 🌐 - [Networking](#networking)
 
 <sup><details>
 
@@ -283,6 +284,14 @@ See [Helpful Tools & Utilities](#helpful-tools-&-utilities) section for tools to
 > Tools for identity and access management. Enables user authentication, authorization.
 
 - <img src="https://upload.wikimedia.org/wikipedia/commons/2/29/Keycloak_Logo.png" height="14"/> [Keycloak](https://github.com/ChristophEnglisch/keycloak-model-context-protocol) - MCP server implementation for managing Keycloak users, groups, and realms using natural language queries.
+
+<br />
+
+## 🌐 <a name="networking"></a>Networking
+
+> Domain registration, DNS management, and network infrastructure tools. Enables searching, purchasing, and managing domain names, as well as configuring DNS records and wallet operations.
+
+- <img src="https://cdn.simpleicons.org/globe/4CAF50" height="14"/> [AgentDomain](https://github.com/MarsHeer/agentdomain-mcp) - Register, manage, and renew domain names directly from AI agents. Supports domain search, purchase, DNS management, and wallet operations
 
 <br />
 
