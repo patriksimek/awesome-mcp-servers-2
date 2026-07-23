@@ -298,6 +298,10 @@ See [Helpful Tools & Utilities](#helpful-tools-&-utilities) section for tools to
   - Easy server management
 - [Remote MCP](https://github.com/ssut/Remote-MCP) - Solution to Remote MCP Communication, enabling effortless integration for centralized management of Model Context
 
+### Security Proxy
+
+- [mcp-slim-guard](https://github.com/lennney/mcp-slim-guard) - Lightweight MCP security proxy — schema compression (up to 86% token savings) + SSRF protection + injection detection + allow/deny + rate limiting + audit logging. MIT license, 402 tests, 5 deps.
+
 <br />
 
 Please read the [contribution guidelines](CONTRIBUTING.md) if you want to contribute.
