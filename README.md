@@ -267,6 +267,7 @@ See [Helpful Tools & Utilities](#helpful-tools-&-utilities) section for tools to
 - <img src="https://cdn.simpleicons.org/postman" height="14" /> [Postman](https://github.com/delano/postman-mcp-server) - Interact with [Postman API](https://www.postman.com/postman/postman-public-workspace/).
 - <img src="https://raw.githubusercontent.com/marimo-team/marimo/main/docs/_static/marimo-logotype-thick.svg" height="14" /> [marimo](https://github.com/marimo-team/codemirror-mcp)<sup><sup>⭐</sup></sup> - CodeMirror extension that implements the Model Context Protocol (MCP) for resource mentions and prompt commands.
 - <img src="https://static.figma.com/app/icon/1/favicon.ico" height="14" /> [Figma](https://github.com/GLips/Figma-Context-MCP) - Paste a link to your Figma design to get its data in a ready-to-implement format.
+- <img src="https://www.designesy.org/favicon.ico" height="14" /> [Designesy](https://github.com/LE-VAI/designesy-org) - Score any URL against a 40-check design-system contract — tokens, motion, accessibility, cadence, typography, copywriting. A–F grade, DTCG 2025.10 token validation, Lottie motion validation. Ships a GitHub Action with SARIF v2.1.0 output + baseline ratchet for CI design regression prevention.
 
 <br />
 
