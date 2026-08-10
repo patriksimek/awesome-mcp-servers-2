@@ -223,6 +223,7 @@ See [Helpful Tools & Utilities](#helpful-tools-&-utilities) section for tools to
 
 > Financial data and cryptocurrency information services.
 
+- <img src="https://cdn.simpleicons.org/bitcoin/F7931A" height="14"/> [agents-u-cash](https://github.com/UdotCASH/agents-u-cash) - Non-custodial HTTP-402 crypto payments for AI agents (JS + Python SDKs, 77-tool MCP server). Buyers pay direct to your own wallet across 40+ chains.
 - <img src="https://cdn.simpleicons.org/coinmarketcap/FF8C00" height="14"/> [CoinMarket](https://github.com/anjor/coinmarket-mcp-server) - Coinmarket API integration for cryptocurrency data
 - <img src="https://cdn.simpleicons.org/stripe" height="14"/> [Stripe](https://github.com/stripe/agent-toolkit/tree/main)<sup><sup>⭐</sup></sup> - Allows you to integrate with Stripe APIs
 
