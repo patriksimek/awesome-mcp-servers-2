@@ -61,6 +61,7 @@ A curated list of awesome Model Context Protocol (MCP) servers. MCP is an open p
 See [Helpful Tools & Utilities](#helpful-tools-&-utilities) section for tools to help manage, configure, and work with MCP servers.
 
 <br />
+- [Sparks RE API](https://github.com/intellectuallyneutral/Real-estate-analysis-API-with-x402-micropayments-on-Base-L2) - Real estate analysis (property data extraction, FHA compliance scanning, investment metrics) with x402 micropayments on Base L2. MCP via streamable HTTP.
 
 ## 📂 <a name="file-systems"></a>File Systems
 
