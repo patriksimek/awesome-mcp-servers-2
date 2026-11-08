@@ -147,6 +147,7 @@ See [Helpful Tools & Utilities](#helpful-tools-&-utilities) section for tools to
 - <img src="https://tavily.com/favicon.ico" height="14"/> [Tavily](https://github.com/Tomatio13/mcp-server-tavily) - Tavily AI search API integration
 - <img src="https://cdn.simpleicons.org/arxiv/B31B1B" height="14"/> [ArXiv](https://github.com/blazickjp/arxiv-mcp-server) - Search ArXiv research papers
 - <img src="https://playwright.dev/img/playwright-logo.svg" height="14"/> [Playwright](https://github.com/executeautomation/mcp-playwright) - A Model Context Protocol server that provides browser automation capabilities using Playwright.
+- <img src="https://www.firecrawl.dev/favicon.ico" height="14"/> [Firecrawl](https://github.com/firecrawl/firecrawl-mcp-server) - Official Firecrawl MCP server: web search, scrape, crawl and structured extraction for AI agents
 
 <br />
 
