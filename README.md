@@ -155,6 +155,7 @@ See [Helpful Tools & Utilities](#helpful-tools-&-utilities) section for tools to
 > Geographic and location-based services integration. Enables access to mapping data, directions, and place information.
 
 - <img src="https://cdn.simpleicons.org/googlemaps/4285F4" height="14"/> [Google Maps](https://github.com/modelcontextprotocol/servers/tree/main/src/google-maps) - Google Maps integration for location services, routing, and place details
+- [No Stairs Please](https://nostairsplease.com/mcp) - Remote MCP server for searching 4,300+ under-400-capacity North American live music venues, booking contacts, and tour routing
 
 <br />
 
